@@ -1,0 +1,19 @@
+{
+  "name": "ng-lazy-image",
+  "version": "1.0.3",
+  "description": "Simple and lightweight lazy load images directive for Angular 2+",
+  "author": "Luong Van Phuc <luongvanphuc.hcmus@gmail.com> (http://grab-cv.com)",
+  "homepage": "https://github.com/luongvanphuc/ng-lazy-image",
+  "license": "MIT",
+  "keywords": [
+    "lazy-loading images",
+    "lazy load images",
+    "native lazy loading",
+    "Intersection Observable API",
+    "lazy load background images"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^9.1.12",
+    "@angular/core": "^9.1.12"
+  }
+}
