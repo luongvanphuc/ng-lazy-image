@@ -1,9 +1,13 @@
 {
   "name": "ng-lazy-image",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Simple and lightweight lazy load images directive for Angular 2+",
   "author": "Luong Van Phuc <luongvanphuc.hcmus@gmail.com> (http://grab-cv.com)",
   "homepage": "https://github.com/luongvanphuc/ng-lazy-image",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luongvanphuc/ng-lazy-image.git"
+  },
   "license": "MIT",
   "keywords": [
     "lazy-loading images",

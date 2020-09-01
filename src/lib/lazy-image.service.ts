@@ -30,7 +30,7 @@ export class LazyImageService {
           ? lazyImage.src = src
           : lazyImage.style.backgroundImage = 'url(\'' + src + '\')';
 
-        lazyImage.removeAttribute('lazy');
+        lazyImage.removeAttribute('loading');
 
         // done the job, stop observing this image
         imgObserver.unobserve(lazyImage);
